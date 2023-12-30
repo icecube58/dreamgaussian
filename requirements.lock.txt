@@ -21,7 +21,7 @@ dearpygui == 1.10.1
 
 # for stable-diffusion
 huggingface_hub == 0.19.4
-diffusers == 0.24.0
+diffusers 
 accelerate == 0.24.1
 transformers == 4.35.2
 
